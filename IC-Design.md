@@ -7,4 +7,7 @@ of semiconductor material, usually silicon.Large numbers of tiny MOSFETs integra
                              ![image](https://user-images.githubusercontent.com/93262817/147734316-b690e2ed-88b1-4c74-a912-a25342fa57c4.png) 
                              ![image](https://user-images.githubusercontent.com/93262817/147734359-25e99e39-7e7f-4d42-a369-80490201fb71.png)
 
+![image](https://user-images.githubusercontent.com/93262817/147734404-f2868bcf-1a57-4974-ab7f-a66dca978ba9.png)
+
+![image](https://user-images.githubusercontent.com/93262817/147734416-83dbbccf-adb1-47b5-9bb7-bd90725f594b.png)
 
