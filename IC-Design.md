@@ -33,38 +33,7 @@ of semiconductor material, usually silicon.Large numbers of tiny MOSFETs integra
    to get vcd file which is for graph and $dumpvars to take module next we give input values and $monitor to view output of the programe and endmodule to end the code 
 9. we various tools to run and check the programe we use a simple tool called edaplayground tool 
 10. Which looks like as the below picture 
-11.           ![image](https://user-images.githubusercontent.com/93262817/147735100-f77c58d6-eece-4a94-8e21-29d9c4f77091.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+11.          ![image](https://user-images.githubusercontent.com/93262817/147925067-108ad6a2-4deb-4770-a536-ae06aa8ebb71.png)
 
 
 
